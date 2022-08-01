@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="name">Name:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="select">Select User Type</string>
+    <string name="select2">Select Museum</string>
+
+    <!--- <string-array name="museumNames">
+        <item>Baba Nyonya Heritage</item>
+        <item>Stadthuys</item>
+        <item>Malay Living Museum</item>
+        <item>Cheng Ho Cultural</item>
+        <item>Maritime Museum</item>
+        <item>Malaysia Prison Museum</item>
+    </string-array> -->
+
+
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+
+
+    <string name="date_button_set">Set Date</string>
+    <string name="date_selected"></string>
+</resources>
